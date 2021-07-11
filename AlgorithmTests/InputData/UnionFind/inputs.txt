@@ -1,0 +1,10 @@
+﻿10
+Union 0 1
+Union 2 3
+Union 4 5
+Union 4 6
+Union 7 8
+Union 2 8
+Union 8 9
+Connected 0 9 False
+Connected 2 9 True
